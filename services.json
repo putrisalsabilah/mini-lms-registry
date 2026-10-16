@@ -1,0 +1,31 @@
+
+{
+  "auth-service": {
+    "baseUrl": "http://localhost:3001",
+    "port": 3001
+  },
+  "user-service": {
+    "baseUrl": "http://localhost:3002",
+    "port": 3002
+  },
+  "course-service": {
+    "baseUrl": "http://localhost:3010",
+    "port": 3010
+  },
+  "enrollment-service": {
+    "baseUrl": "http://localhost:3004",
+    "port": 3004
+  },
+  "material-service": {
+    "baseUrl": "http://localhost:3005",
+    "port": 3005
+  },
+  "assignment-service": {
+    "baseUrl": "http://localhost:3006",
+    "port": 3006
+  },
+  "grade-service": {
+    "baseUrl": "http://localhost:3007",
+    "port": 3007
+  }
+}
