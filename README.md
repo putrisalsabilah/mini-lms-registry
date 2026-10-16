@@ -1,5 +1,13 @@
 # Mini-LMS Service Registry
 
+## Identitas Kelompok
+**Kelompok 2**
+**Mata Kuliah:** Sistem Terdistribusi
+**Anggota Kelompok:**
+1. Mursalina - (230209500074)
+2. Putri Salsabilah - (240209501045)
+3. Putri Ayu Auliah - (240209501064)
+
 ## 1. Deskripsi Proyek
 
 Mini-LMS Service Registry merupakan proyek sederhana yang dibuat untuk menyimpan dan mencari alamat tujuh service pada sistem Mini-LMS. Registry digunakan agar Gateway dapat menemukan alamat service berdasarkan nama logis tanpa harus menuliskan alamat dan port service secara langsung di source code Gateway.
