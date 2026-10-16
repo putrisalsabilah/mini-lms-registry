@@ -1,12 +1,12 @@
 # Mini-LMS Service Registry
 
 ## Identitas Kelompok
-**Kelompok 2**
-**Mata Kuliah:** Sistem Terdistribusi
+**Kelompok 2**.
+**Mata Kuliah:** Sistem Terdistribusi.
 **Anggota Kelompok:**
-1. Mursalina - (230209500074)
-2. Putri Salsabilah - (240209501045)
-3. Putri Ayu Auliah - (240209501064)
+1. Mursalina - (230209500074).
+2. Putri Salsabilah - (240209501045).
+3. Putri Ayu Auliah - (240209501064).
 
 ## 1. Deskripsi Proyek
 
